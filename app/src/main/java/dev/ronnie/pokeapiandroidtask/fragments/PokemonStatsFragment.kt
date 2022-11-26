@@ -1,3 +1,4 @@
+
 package dev.ronnie.pokeapiandroidtask.fragments
 
 import android.os.Bundle
@@ -27,7 +28,7 @@ import kotlinx.coroutines.launch
 
 
 /**
- *created by Ronnie Otieno on 21-Dec-20.
+
  **/
 @AndroidEntryPoint
 class PokemonStatsFragment : Fragment(R.layout.fragment_pokemon_stats) {
