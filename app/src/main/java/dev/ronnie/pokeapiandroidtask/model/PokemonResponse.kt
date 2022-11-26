@@ -1,6 +1,6 @@
 package dev.ronnie.pokeapiandroidtask.model
 
-import android.os.Parcelable
+import android.os.parcelable
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
